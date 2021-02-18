@@ -1,5 +1,5 @@
 # HARPOC - Password Generator
-<img align="center" src="https://raw.githubusercontent.com/chadsantiago/Flames/main/banner.png"/>
+<img align="center" src="https://raw.githubusercontent.com/chadsantiago/Harpoc/main/banner.png"/>
 
 
 ## Installation

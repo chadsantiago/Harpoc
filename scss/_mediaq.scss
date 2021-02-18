@@ -1,0 +1,74 @@
+@media (min-width: 320px) {
+    .input input {
+        width: 300px;
+    }
+
+    .title {
+        font-size: 25px;
+    }
+
+    .result {
+        font-size: 20px;
+    }
+
+    .password {
+        font-size: 30px;
+    }
+
+}
+
+@media (min-width: 576px) {
+    .input input {
+        width: 500px;
+    }
+
+    .title, .result {
+        font-size: 30px;
+    }
+
+    .password {
+        font-size: 40px;
+    }
+}
+
+@media (min-width: 768px) {
+    .input input {
+        width: 500px;
+    }
+
+    .title, .result {
+        font-size: 30px;
+    }
+
+    .password {
+        font-size: 50px;
+    }
+}
+
+@media (min-width: 992px) {
+    .input input {
+        width: 500px;
+    }
+
+    .title, .result {
+        font-size: 30px;
+    }
+
+    .password {
+        font-size: 60px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .input input {
+        width: 500px;
+    }
+
+    .title, .result {
+        font-size: 30px;
+    }
+
+    .password {
+        font-size: 60px;
+    }
+}

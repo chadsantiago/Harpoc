@@ -1,0 +1,28 @@
+{% extends 'base.html' %}
+
+{% block body %}
+
+<section class="m-t2">
+
+    <div class="button-container text-center pd-t2">
+
+        <div class="container-content text-center pd-b2">
+            <p class="sub-title">By: Chad</p>
+            <a target="_blank" href="https://github.com/chadsantiago/Flames"><p class="sub-title"><i class="fab fa-github"></i></p></a>
+        </div>
+
+        <form action="/" method="POST">
+            <input class="send-button" type="submit" value="GENERATE PASSWORD">
+        </form>
+    </div>
+
+    <div class="container-content text-center m-b2">
+        <p class="password animate__animated animate__pulse pd-b0">{{ psd }}</p>
+        <p class="result pd-b0">{{ title }}</p>
+        <p class="result">{{ keyword }}</p>
+    </div>
+
+</section>
+
+
+{% endblock %}
